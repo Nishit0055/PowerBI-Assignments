@@ -1,0 +1,57 @@
+Q1) Explain the advantages of Natural Queries in PowerBi with an example?
+
+Ans - Natural queries helps to discover business insights. It also helps to convert the unstructured data in structured data. It also helps in eaiser access of the data to the required user.
+
+Eg - we can import data from various data sources using database query.
+
+Q2) Explain Web Front End(WFE) cluster from Power BI Service Architecture?
+
+Ans - WFE Cluster is useful for the authentication process which authenticates customers and also provide tokens for customer links. It manager the original PowerBI link.
+
+Q3) Explain Back End cluster from Power BI Service Architecture?
+
+Ans - The customer interact with powerbi service is through Back End Cluster. The Back End cluster manages visualization, user dashboards, datasets, reports, data storage, information links and other elements of PowerBI service.
+
+Q4) What ASP.NET component does in Power BI Service Architecture?
+
+Ans - The ASP.NET component is Powerbi service architecture responsible to parse the token and also decide that which organisation the user belongs to. Afer that, it consults the PowerBI service.
+
+Q5) Compare Microsoft Excel and PowerBi Desktop on the following features:
+Data import
+Data transformation
+Modeling
+Reporting
+Cost
+
+Ans - Data Import - Powerbi can import data from large number of data sources where as Excel importing capability is less compared to powerbi.
+
+Data Transformation - Data Transformation is done in PowerBI to to perform business intelligence operations and visualization whereas in Excel Data Transformation is done to perform mathematical operations and calculations.
+
+Modelling - Data Modelling in powerbi can be performed on complex data models whereas data modelling in excel is more sutaible to perform only on simple and unstructured data. Data model language in powerbi is DAX whereas of excel is MDX.
+
+Reporting - Very attractive and beautiful reports can be prepared using powerbi whereas excel can produce simple and less attractive reports compared to powerbi.
+
+Cost - Microsoft excel is a paid tool whereas powerbi has free version as well as paid version.
+
+Q6) List 20 data sources supported by Power Bi desktop.
+
+Ans - 1) excel
+2)Text/CSV
+3)XML
+4)JSON
+5)Folder
+6)PDF
+7)Azure SQL Database
+8)Google Analytics
+9)Adobe Analytics
+10)SharePoint Online List
+11)Microsoft Exchange Online
+12)Web
+13)SharePoint list
+14)Active Directory
+15)ODBC
+16)Python script
+17)R script
+18)Spark
+19)Hadoop File
+20)Sharepoint folder
