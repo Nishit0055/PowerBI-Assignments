@@ -1,0 +1,33 @@
+Q1) List and explain different PowerBi products?
+
+Ans - 1) Powerbi desktop - It is used for creating amd editing reports, data ingestion, data transformation, data cleaning, data model creation as well as AI driven analytics. 
+2) Powerbi pro - It offers all sort of services for users who want to take full benifit of PowerBI ecosystem.
+3) Powerbi premium - It is  a licensed resource. It works on the concept of "Dedicated capacity".
+4) PowerBI embedded - Through this reports, dashboards and analytics can be potrayed into an application.
+
+Q2) What limitations of Excel, Microsoft solved by PowerBi?
+
+Ans - 1) Power BI can connect nore than hundred of data sources whereas Excel can connect less than hundred data sources to get data.
+2) Powerbi solves the processing efficiency problem of excel.
+3) Powerbi is also effiecient to analyze large datasets as compare to excel 
+4) Powerbi UI offers more functionality than excel
+5) Powerbi has Q&A feature whereas excel dosen't.
+
+Q3) Explain PowerQuery?
+
+Ans - Power query is an ETL tool which is used for cleaning the data.
+
+Q4) Explain PowerMap?
+
+Ans -  It provides you with a visual representation of an organization. It tells us that "what is the best way to get from Point A to Point B ?"
+
+Q5) How powerBi eliminated the need to host SharePoint Server on premises?
+
+Ans - PowerBi eliminated the need to host SharePoint Server on premises by removing following tasks - Code-Based Sandbox Solutions,Digest Authentication,Incoming email automatic mode, Multi-Tenancy, PDF Viewer,PowerPivot Gallery and Refresh and SharePoint Workflow Manager.
+
+Q6) Explain the updates done in Power Bi Service(power BI 2.0) as compared to older version ?
+
+Ans - 1) Improved backup and restore performance 
+2)New formatting options for mobile
+3) New format pane
+4) Mandatory labels and many more...
