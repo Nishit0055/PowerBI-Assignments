@@ -1,0 +1,30 @@
+Q1) What do you mean by BI? Explain.
+
+Ans - BI stands for business intelligence. Business intelligence is a process for analyzing data and giving information that helps people make sutaible business decisions.
+
+Q2) How Power-BI helps in BI, and how does it help Analysts? Explain.
+
+Ans - The Business Intelligence feature of PowerBI helps to analyze the data and convert the data into visual format where different dashboards and reports can be created. The BI feature also helps the analysts to gain insights from the output being generated.
+
+Q3) Explain Descriptive analytics?
+
+Ans - Descriptive analytics answers the question - "On the basis of live data, what is happening in real time?".  It is an accurate type of analytics which is easy to visualize.
+
+Q4) Explain Predictive analytics?
+
+Ans - Predictive analysis answers the question - "What can happen in the future?". Various business decisions are made in an automated way using algorithms in Predictive analytics.
+
+Q5) Explain perspective analytics?
+
+Ans - Perspective analytics answers the question - "What is the best action that should be taken to achieve our goal?". It uses advanced algoriths to answer this question.
+
+Q6) Write five real-life questions that PowerBi can solve.
+
+Ans - Five real world questions that PowerBI ban solve are -
+
+1) Saves time for preparing presentations.
+2) Can use data from old reports
+3) To build reusable workflow
+4) Have low cost
+5) Can pull data from different sources
+
